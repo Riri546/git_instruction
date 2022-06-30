@@ -247,4 +247,3 @@ Markdown | Less | Pretty
 ## 7. Заключение
 Markdown сам по себе достаточно простой язык, главное - запомнить нужные комбинации символов для получения требуемого результата. 
 
-bhjvdddddddddddddddddddddddddddddddddddddddddddd
